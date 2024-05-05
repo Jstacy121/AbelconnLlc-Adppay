@@ -10,20 +10,21 @@
     "status": "active",
     "links": [
         {
-            "name": "github",
-            "url": "https://github.com/bitcoin"
+            "name": "Bitcoin",
+            "url": "https://bitcoin.org
         },
         {
-            "name": "twitter",
-            "url": "https://twitter.com/Bitcoin"
+            "name": "Bitcoin",
+            "url": "https://Blockchiar.com
         },
         {
-            "name": "reddit",
-            "url": "https://reddit.com/r/Bitcoin"
+            "name": "trust wallet ",
+            "url": "https://coinsats.com/r/Bitcoin"
         },
         {
             "name": "whitepaper",
             "url": "https://bitcoin.org/bitcoin.pdf"
         }
+        
     ]
 }
